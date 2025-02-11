@@ -1,0 +1,404 @@
+"productLine";"totalrevenue";"ordermonth";"mois";"country";"totalRevenue2022";"totalRevenue2023";"totalRevenue2024";"evolution2023";"evolution2024"
+"Planes";18877.85;1;"January";"Australia";0.0;0.0;18877.85;0.0;0.0
+"Vintage Cars";6068.47;1;"January";"Australia";0.0;0.0;6068.47;0.0;0.0
+"Motorcycles";4825.28;1;"January";"Australia";0.0;0.0;4825.28;0.0;0.0
+"Ships";2063.76;1;"January";"Australia";0.0;0.0;2063.76;0.0;0.0
+"Trucks and Buses";17223.48;2;"February";"Australia";0.0;0.0;17223.48;0.0;0.0
+"Motorcycles";13341.75;2;"February";"Australia";0.0;0.0;13341.75;0.0;0.0
+"Classic Cars";9025.1;2;"February";"Australia";0.0;0.0;9025.1;0.0;0.0
+"Planes";8090.56;2;"February";"Australia";0.0;0.0;8090.56;0.0;0.0
+"Vintage Cars";835.2;2;"February";"Australia";0.0;0.0;835.2;0.0;0.0
+"Motorcycles";26696.35;3;"March";"Australia";0.0;26696.35;0.0;0.0;-1.0
+"Planes";15181.97;3;"March";"Australia";0.0;15181.97;0.0;0.0;-1.0
+"Vintage Cars";3016.42;3;"March";"Australia";0.0;3016.42;0.0;0.0;-1.0
+"Motorcycles";21814.69;5;"May";"Australia";21814.69;0.0;0.0;0.0;0.0
+"Planes";20022.89;5;"May";"Australia";20022.89;0.0;0.0;0.0;0.0
+"Vintage Cars";4026.45;5;"May";"Australia";4026.45;0.0;0.0;0.0;0.0
+"Vintage Cars";7565.08;6;"June";"Australia";7565.08;0.0;0.0;0.0;0.0
+"Vintage Cars";24013.52;7;"July";"Australia";24013.52;0.0;0.0;0.0;0.0
+"Classic Cars";9415.13;7;"July";"Australia";0.0;9415.13;0.0;0.0;-1.0
+"Trucks and Buses";16035.78;8;"August";"Australia";0.0;16035.78;0.0;0.0;-1.0
+"Classic Cars";12224.34;8;"August";"Australia";0.0;12224.34;0.0;0.0;-1.0
+"Vintage Cars";7546.61;8;"August";"Australia";0.0;7546.61;0.0;0.0;-1.0
+"Classic Cars";38707.23;9;"September";"Australia";38707.23;0.0;0.0;0.0;0.0
+"Vintage Cars";2847.5;9;"September";"Australia";2847.5;0.0;0.0;0.0;0.0
+"Classic Cars";7934.71;10;"October";"Australia";7934.71;0.0;0.0;0.0;0.0
+"Trains";1886.61;10;"October";"Australia";1886.61;0.0;0.0;0.0;0.0
+"Classic Cars";29212.97;11;"November";"Australia";29212.97;0.0;0.0;0.0;0.0
+"Motorcycles";16401.8;11;"November";"Australia";16401.8;0.0;0.0;0.0;0.0
+"Trucks and Buses";10085.92;11;"November";"Australia";10085.92;0.0;0.0;0.0;0.0
+"Vintage Cars";6783.03;11;"November";"Australia";6783.03;0.0;0.0;0.0;0.0
+"Vintage Cars";50270.14;12;"December";"Australia";33848.63;16421.51;0.0;-0.514855;-1.0
+"Classic Cars";49666.87;12;"December";"Australia";1657.0;48009.87;0.0;27.973971;-1.0
+"Trucks and Buses";16326.52;12;"December";"Australia";0.0;16326.52;0.0;0.0;-1.0
+"Motorcycles";1503.32;12;"December";"Australia";0.0;1503.32;0.0;0.0;-1.0
+"Planes";13670.12;5;"May";"Austria";13670.12;0.0;0.0;0.0;0.0
+"Vintage Cars";9251.56;5;"May";"Austria";9251.56;0.0;0.0;0.0;0.0
+"Ships";7712.17;5;"May";"Austria";7712.17;0.0;0.0;0.0;0.0
+"Classic Cars";5192.48;5;"May";"Austria";5192.48;0.0;0.0;0.0;0.0
+"Vintage Cars";6419.84;8;"August";"Austria";0.0;6419.84;0.0;0.0;-1.0
+"Classic Cars";21533.09;11;"November";"Austria";21533.09;0.0;0.0;0.0;0.0
+"Trucks and Buses";19562.53;11;"November";"Austria";19562.53;0.0;0.0;0.0;0.0
+"Vintage Cars";1157.25;11;"November";"Austria";1157.25;0.0;0.0;0.0;0.0
+"Classic Cars";22380.74;12;"December";"Austria";0.0;22380.74;0.0;0.0;-1.0
+"Motorcycles";18039.49;12;"December";"Austria";0.0;18039.49;0.0;0.0;-1.0
+"Planes";2393.6;12;"December";"Austria";0.0;2393.6;0.0;0.0;-1.0
+"Classic Cars";14379.9;1;"January";"Belgium";0.0;0.0;14379.9;0.0;0.0
+"Vintage Cars";7703.52;3;"March";"Belgium";0.0;7703.52;0.0;0.0;-1.0
+"Ships";7133.61;3;"March";"Belgium";0.0;7133.61;0.0;0.0;-1.0
+"Trains";2064.25;3;"March";"Belgium";0.0;2064.25;0.0;0.0;-1.0
+"Trains";1627.56;4;"April";"Belgium";1627.56;0.0;0.0;0.0;0.0
+"Vintage Cars";19819.99;8;"August";"Belgium";1128.2;18691.79;0.0;15.567798;-1.0
+"Ships";18457.37;8;"August";"Belgium";0.0;18457.37;0.0;0.0;-1.0
+"Trains";4123.31;8;"August";"Belgium";0.0;4123.31;0.0;0.0;-1.0
+"Classic Cars";4080.0;8;"August";"Belgium";0.0;4080.0;0.0;0.0;-1.0
+"Planes";5624.79;12;"December";"Belgium";0.0;5624.79;0.0;0.0;-1.0
+"Vintage Cars";4192.65;12;"December";"Belgium";0.0;4192.65;0.0;0.0;-1.0
+"Ships";2264.08;12;"December";"Belgium";0.0;2264.08;0.0;0.0;-1.0
+"Planes";21768.01;4;"April";"Canada";0.0;21768.01;0.0;0.0;-1.0
+"Vintage Cars";3789.51;4;"April";"Canada";0.0;3789.51;0.0;0.0;-1.0
+"Motorcycles";3726.9;4;"April";"Canada";0.0;3726.9;0.0;0.0;-1.0
+"Ships";16472.01;7;"July";"Canada";0.0;16472.01;0.0;0.0;-1.0
+"Vintage Cars";3367.52;7;"July";"Canada";0.0;3367.52;0.0;0.0;-1.0
+"Classic Cars";3157.92;7;"July";"Canada";0.0;3157.92;0.0;0.0;-1.0
+"Ships";20133.15;9;"September";"Canada";0.0;20133.15;0.0;0.0;-1.0
+"Vintage Cars";12357.97;9;"September";"Canada";0.0;12357.97;0.0;0.0;-1.0
+"Classic Cars";3264.0;9;"September";"Canada";0.0;3264.0;0.0;0.0;-1.0
+"Planes";1772.46;9;"September";"Canada";0.0;1772.46;0.0;0.0;-1.0
+"Classic Cars";29064.24;11;"November";"Canada";16909.84;12154.4;0.0;-0.281223;-1.0
+"Trucks and Buses";21440.18;11;"November";"Canada";0.0;21440.18;0.0;0.0;-1.0
+"Vintage Cars";15055.19;12;"December";"Canada";15055.19;0.0;0.0;0.0;0.0
+"Classic Cars";12506.06;12;"December";"Canada";12506.06;0.0;0.0;0.0;0.0
+"Trucks and Buses";8966.36;12;"December";"Canada";8966.36;0.0;0.0;0.0;0.0
+"Classic Cars";18941.04;2;"February";"Denmark";18941.04;0.0;0.0;0.0;0.0
+"Ships";18579.03;2;"February";"Denmark";18579.03;0.0;0.0;0.0;0.0
+"Vintage Cars";13105.4;2;"February";"Denmark";13105.4;0.0;0.0;0.0;0.0
+"Trains";3333.74;2;"February";"Denmark";3333.74;0.0;0.0;0.0;0.0
+"Classic Cars";28211.7;4;"April";"Denmark";0.0;28211.7;0.0;0.0;-1.0
+"Vintage Cars";4710.73;6;"June";"Denmark";0.0;4710.73;0.0;0.0;-1.0
+"Classic Cars";71934.48;11;"November";"Denmark";36164.46;35770.02;0.0;-0.010907;-1.0
+"Ships";15268.51;11;"November";"Denmark";0.0;15268.51;0.0;0.0;-1.0
+"Trucks and Buses";7560.55;11;"November";"Denmark";0.0;7560.55;0.0;0.0;-1.0
+"Planes";7208.8;11;"November";"Denmark";0.0;7208.8;0.0;0.0;-1.0
+"Trains";5907.12;11;"November";"Denmark";0.0;5907.12;0.0;0.0;-1.0
+"Vintage Cars";2595.2;11;"November";"Denmark";0.0;2595.2;0.0;0.0;-1.0
+"Classic Cars";35585.32;1;"January";"Finland";0.0;0.0;35585.32;0.0;0.0
+"Motorcycles";10200.02;1;"January";"Finland";0.0;0.0;10200.02;0.0;0.0
+"Classic Cars";28217.38;2;"February";"Finland";0.0;0.0;28217.38;0.0;0.0
+"Ships";17205.9;2;"February";"Finland";0.0;0.0;17205.9;0.0;0.0
+"Planes";12848.81;2;"February";"Finland";0.0;0.0;12848.81;0.0;0.0
+"Vintage Cars";12101.33;2;"February";"Finland";0.0;0.0;12101.33;0.0;0.0
+"Classic Cars";16212.59;4;"April";"Finland";0.0;16212.59;0.0;0.0;-1.0
+"Classic Cars";23532.19;5;"May";"Finland";0.0;23532.19;0.0;0.0;-1.0
+"Trains";4862.35;5;"May";"Finland";0.0;4862.35;0.0;0.0;-1.0
+"Classic Cars";17008.48;8;"August";"Finland";17008.48;0.0;0.0;0.0;0.0
+"Trucks and Buses";12708.38;8;"August";"Finland";12708.38;0.0;0.0;0.0;0.0
+"Motorcycles";26386.84;10;"October";"Finland";0.0;26386.84;0.0;0.0;-1.0
+"Classic Cars";23037.4;10;"October";"Finland";15083.16;7954.24;0.0;-0.472641;-1.0
+"Trucks and Buses";21774.28;10;"October";"Finland";21774.28;0.0;0.0;0.0;0.0
+"Planes";19112.8;10;"October";"Finland";19112.8;0.0;0.0;0.0;0.0
+"Vintage Cars";7816.4;10;"October";"Finland";7816.4;0.0;0.0;0.0;0.0
+"Ships";6538.88;10;"October";"Finland";6538.88;0.0;0.0;0.0;0.0
+"Classic Cars";40600.19;1;"January";"France";0.0;40600.19;0.0;0.0;-1.0
+"Motorcycles";24908.63;1;"January";"France";0.0;23074.07;1834.56;0.0;-0.920493
+"Ships";21010.71;1;"January";"France";0.0;21010.71;0.0;0.0;-1.0
+"Vintage Cars";7708.33;1;"January";"France";0.0;7708.33;0.0;0.0;-1.0
+"Trains";6386.58;1;"January";"France";0.0;6386.58;0.0;0.0;-1.0
+"Motorcycles";22351.12;2;"February";"France";0.0;0.0;22351.12;0.0;0.0
+"Planes";14446.57;2;"February";"France";0.0;0.0;14446.57;0.0;0.0
+"Classic Cars";8317.8;2;"February";"France";0.0;0.0;8317.8;0.0;0.0
+"Trucks and Buses";5759.42;2;"February";"France";0.0;5759.42;0.0;0.0;-1.0
+"Vintage Cars";4408.18;2;"February";"France";0.0;0.0;4408.18;0.0;0.0
+"Vintage Cars";27873.83;3;"March";"France";0.0;27873.83;0.0;0.0;-1.0
+"Motorcycles";18997.89;3;"March";"France";0.0;18997.89;0.0;0.0;-1.0
+"Classic Cars";13104.7;3;"March";"France";0.0;13104.7;0.0;0.0;-1.0
+"Classic Cars";40994.73;4;"April";"France";16283.59;24711.14;0.0;0.517549;-1.0
+"Trucks and Buses";17099.55;4;"April";"France";17099.55;0.0;0.0;0.0;0.0
+"Vintage Cars";11358.12;4;"April";"France";0.0;11358.12;0.0;0.0;-1.0
+"Classic Cars";47710.07;5;"May";"France";47710.07;0.0;0.0;0.0;0.0
+"Motorcycles";19815.06;5;"May";"France";19815.06;0.0;0.0;0.0;0.0
+"Classic Cars";28002.34;6;"June";"France";14571.44;13430.9;0.0;-0.078272;-1.0
+"Motorcycles";11650.06;6;"June";"France";0.0;11650.06;0.0;0.0;-1.0
+"Vintage Cars";4632.31;6;"June";"France";0.0;4632.31;0.0;0.0;-1.0
+"Classic Cars";28152.96;7;"July";"France";28152.96;0.0;0.0;0.0;0.0
+"Motorcycles";23419.47;7;"July";"France";23419.47;0.0;0.0;0.0;0.0
+"Planes";24914.19;8;"August";"France";0.0;24914.19;0.0;0.0;-1.0
+"Motorcycles";19847.14;8;"August";"France";0.0;19847.14;0.0;0.0;-1.0
+"Vintage Cars";3162.86;8;"August";"France";0.0;3162.86;0.0;0.0;-1.0
+"Motorcycles";1960.8;9;"September";"France";0.0;1960.8;0.0;0.0;-1.0
+"Vintage Cars";29059.67;10;"October";"France";0.0;29059.67;0.0;0.0;-1.0
+"Classic Cars";12704.48;10;"October";"France";0.0;12704.48;0.0;0.0;-1.0
+"Trucks and Buses";11352.84;10;"October";"France";0.0;11352.84;0.0;0.0;-1.0
+"Motorcycles";6066.78;10;"October";"France";0.0;6066.78;0.0;0.0;-1.0
+"Motorcycles";34378.29;11;"November";"France";34378.29;0.0;0.0;0.0;0.0
+"Ships";20645.76;11;"November";"France";5846.74;14799.02;0.0;1.531158;-1.0
+"Planes";16555.22;11;"November";"France";16555.22;0.0;0.0;0.0;0.0
+"Vintage Cars";12953.1;11;"November";"France";8250.3;4702.8;0.0;-0.429984;-1.0
+"Classic Cars";11571.6;11;"November";"France";11571.6;0.0;0.0;0.0;0.0
+"Classic Cars";100851.43;12;"December";"France";14150.14;86701.29;0.0;5.127239;-1.0
+"Vintage Cars";41040.43;12;"December";"France";1959.39;39081.04;0.0;18.945514;-1.0
+"Trucks and Buses";35994.77;12;"December";"France";23602.57;12392.2;0.0;-0.474964;-1.0
+"Trains";6500.9;12;"December";"France";0.0;6500.9;0.0;0.0;-1.0
+"Motorcycles";3115.75;12;"December";"France";0.0;3115.75;0.0;0.0;-1.0
+"Vintage Cars";10549.01;1;"January";"Germany";10549.01;0.0;0.0;0.0;0.0
+"Classic Cars";25212.81;3;"March";"Germany";0.0;25212.81;0.0;0.0;-1.0
+"Trains";5184.01;3;"March";"Germany";0.0;5184.01;0.0;0.0;-1.0
+"Trucks and Buses";3423.8;3;"March";"Germany";0.0;3423.8;0.0;0.0;-1.0
+"Classic Cars";24101.81;10;"October";"Germany";24101.81;0.0;0.0;0.0;0.0
+"Planes";19600.79;10;"October";"Germany";0.0;19600.79;0.0;0.0;-1.0
+"Vintage Cars";7199.28;10;"October";"Germany";0.0;7199.28;0.0;0.0;-1.0
+"Ships";4510.02;10;"October";"Germany";0.0;4510.02;0.0;0.0;-1.0
+"Classic Cars";57363.83;11;"November";"Germany";0.0;57363.83;0.0;0.0;-1.0
+"Trucks and Buses";4552.42;11;"November";"Germany";0.0;4552.42;0.0;0.0;-1.0
+"Motorcycles";3870.84;11;"November";"Germany";0.0;3870.84;0.0;0.0;-1.0
+"Vintage Cars";2913.9;11;"November";"Germany";0.0;2913.9;0.0;0.0;-1.0
+"Classic Cars";25368.48;12;"December";"Germany";25368.48;0.0;0.0;0.0;0.0
+"Motorcycles";2619.99;12;"December";"Germany";2619.99;0.0;0.0;0.0;0.0
+"Planes";24761.8;11;"November";"Hong Kong";24761.8;0.0;0.0;0.0;0.0
+"Vintage Cars";3525.93;11;"November";"Hong Kong";3525.93;0.0;0.0;0.0;0.0
+"Planes";12596.76;12;"December";"Hong Kong";12596.76;0.0;0.0;0.0;0.0
+"Motorcycles";2831.85;12;"December";"Hong Kong";2831.85;0.0;0.0;0.0;0.0
+"Vintage Cars";1764.45;12;"December";"Hong Kong";1764.45;0.0;0.0;0.0;0.0
+"Classic Cars";26413.74;2;"February";"Ireland";0.0;26413.74;0.0;0.0;-1.0
+"Trucks and Buses";3426.2;2;"February";"Ireland";0.0;3426.2;0.0;0.0;-1.0
+"Trains";2698.8;2;"February";"Ireland";0.0;2698.8;0.0;0.0;-1.0
+"Planes";11033.45;10;"October";"Ireland";0.0;11033.45;0.0;0.0;-1.0
+"Motorcycles";4553.96;10;"October";"Ireland";0.0;4553.96;0.0;0.0;-1.0
+"Vintage Cars";1772.12;10;"October";"Ireland";0.0;1772.12;0.0;0.0;-1.0
+"Classic Cars";5181.94;2;"February";"Italy";0.0;5181.94;0.0;0.0;-1.0
+"Trucks and Buses";2430.12;2;"February";"Italy";0.0;2430.12;0.0;0.0;-1.0
+"Planes";37136.27;3;"March";"Italy";37136.27;0.0;0.0;0.0;0.0
+"Vintage Cars";9147.58;3;"March";"Italy";9147.58;0.0;0.0;0.0;0.0
+"Ships";5867.96;3;"March";"Italy";5867.96;0.0;0.0;0.0;0.0
+"Classic Cars";51619.02;7;"July";"Italy";0.0;51619.02;0.0;0.0;-1.0
+"Vintage Cars";45177.18;9;"September";"Italy";0.0;45177.18;0.0;0.0;-1.0
+"Classic Cars";26424.11;9;"September";"Italy";0.0;26424.11;0.0;0.0;-1.0
+"Ships";6251.22;9;"September";"Italy";0.0;6251.22;0.0;0.0;-1.0
+"Trucks and Buses";2352.0;9;"September";"Italy";0.0;2352.0;0.0;0.0;-1.0
+"Trains";2018.72;9;"September";"Italy";0.0;2018.72;0.0;0.0;-1.0
+"Planes";13313.84;10;"October";"Italy";13313.84;0.0;0.0;0.0;0.0
+"Motorcycles";2852.94;10;"October";"Italy";2852.94;0.0;0.0;0.0;0.0
+"Vintage Cars";1579.48;10;"October";"Italy";1579.48;0.0;0.0;0.0;0.0
+"Vintage Cars";40679.84;11;"November";"Italy";33175.68;7504.16;0.0;-0.773805;-1.0
+"Classic Cars";37194.92;11;"November";"Italy";37194.92;0.0;0.0;0.0;0.0
+"Planes";27069.6;11;"November";"Italy";0.0;27069.6;0.0;0.0;-1.0
+"Trains";3348.4;11;"November";"Italy";3348.4;0.0;0.0;0.0;0.0
+"Ships";3080.33;11;"November";"Italy";0.0;3080.33;0.0;0.0;-1.0
+"Trucks and Buses";2529.08;11;"November";"Italy";2529.08;0.0;0.0;0.0;0.0
+"Planes";26179.8;1;"January";"Japan";0.0;26179.8;0.0;0.0;-1.0
+"Motorcycles";16913.29;1;"January";"Japan";0.0;16913.29;0.0;0.0;-1.0
+"Vintage Cars";4084.5;1;"January";"Japan";0.0;4084.5;0.0;0.0;-1.0
+"Classic Cars";16348.7;2;"February";"Japan";0.0;0.0;16348.7;0.0;0.0
+"Ships";7051.12;2;"February";"Japan";0.0;0.0;7051.12;0.0;0.0
+"Vintage Cars";6910.23;2;"February";"Japan";0.0;0.0;6910.23;0.0;0.0
+"Trains";3657.68;2;"February";"Japan";0.0;0.0;3657.68;0.0;0.0
+"Classic Cars";15183.63;4;"April";"Japan";0.0;15183.63;0.0;0.0;-1.0
+"Trucks and Buses";11385.51;7;"July";"Japan";0.0;11385.51;0.0;0.0;-1.0
+"Classic Cars";9606.39;7;"July";"Japan";0.0;9606.39;0.0;0.0;-1.0
+"Vintage Cars";1046.01;7;"July";"Japan";0.0;1046.01;0.0;0.0;-1.0
+"Motorcycles";15729.27;12;"December";"Japan";0.0;15729.27;0.0;0.0;-1.0
+"Planes";15354.83;12;"December";"Japan";0.0;15354.83;0.0;0.0;-1.0
+"Ships";9060.98;12;"December";"Japan";0.0;9060.98;0.0;0.0;-1.0
+"Vintage Cars";8782.56;12;"December";"Japan";0.0;8782.56;0.0;0.0;-1.0
+"Ships";20281.48;1;"January";"New Zealand";0.0;0.0;20281.48;0.0;0.0
+"Vintage Cars";14968.39;1;"January";"New Zealand";0.0;0.0;14968.39;0.0;0.0
+"Planes";14167.22;1;"January";"New Zealand";0.0;0.0;14167.22;0.0;0.0
+"Trains";2748.91;1;"January";"New Zealand";0.0;0.0;2748.91;0.0;0.0
+"Planes";12114.26;4;"April";"New Zealand";0.0;12114.26;0.0;0.0;-1.0
+"Vintage Cars";7415.23;4;"April";"New Zealand";0.0;7415.23;0.0;0.0;-1.0
+"Ships";6461.52;4;"April";"New Zealand";0.0;6461.52;0.0;0.0;-1.0
+"Classic Cars";5679.36;4;"April";"New Zealand";0.0;5679.36;0.0;0.0;-1.0
+"Classic Cars";19681.54;6;"June";"New Zealand";0.0;19681.54;0.0;0.0;-1.0
+"Vintage Cars";17599.82;6;"June";"New Zealand";0.0;17599.82;0.0;0.0;-1.0
+"Vintage Cars";56015.19;7;"July";"New Zealand";17090.38;38924.81;0.0;1.277586;-1.0
+"Classic Cars";40843.58;7;"July";"New Zealand";14987.06;25856.52;0.0;0.725256;-1.0
+"Trains";5364.47;7;"July";"New Zealand";0.0;5364.47;0.0;0.0;-1.0
+"Planes";2880.0;7;"July";"New Zealand";2880.0;0.0;0.0;0.0;0.0
+"Ships";2658.15;7;"July";"New Zealand";0.0;2658.15;0.0;0.0;-1.0
+"Planes";16049.02;11;"November";"New Zealand";16049.02;0.0;0.0;0.0;0.0
+"Motorcycles";3910.5;11;"November";"New Zealand";3910.5;0.0;0.0;0.0;0.0
+"Vintage Cars";3004.08;11;"November";"New Zealand";3004.08;0.0;0.0;0.0;0.0
+"Motorcycles";34123.03;12;"December";"New Zealand";11086.47;23036.56;0.0;1.077899;-1.0
+"Classic Cars";25537.6;12;"December";"New Zealand";9133.57;16404.03;0.0;0.796015;-1.0
+"Trucks and Buses";20987.03;2;"February";"Norway";20987.03;0.0;0.0;0.0;0.0
+"Vintage Cars";14683.04;2;"February";"Norway";14683.04;0.0;0.0;0.0;0.0
+"Classic Cars";14548.88;2;"February";"Norway";14548.88;0.0;0.0;0.0;0.0
+"Planes";25719.05;9;"September";"Norway  ";0.0;25719.05;0.0;0.0;-1.0
+"Vintage Cars";19079.12;9;"September";"Norway  ";0.0;19079.12;0.0;0.0;-1.0
+"Classic Cars";36798.88;10;"October";"Norway  ";36798.88;0.0;0.0;0.0;0.0
+"Motorcycles";19367.7;10;"October";"Norway";1491.38;17876.32;0.0;10.986429;-1.0
+"Classic Cars";77462.01;11;"November";"Norway";55069.55;22392.46;0.0;-0.593379;-1.0
+"Trucks and Buses";5468.96;11;"November";"Norway";0.0;5468.96;0.0;0.0;-1.0
+"Trains";4022.96;11;"November";"Norway";0.0;4022.96;0.0;0.0;-1.0
+"Vintage Cars";2753.76;11;"November";"Norway";0.0;2753.76;0.0;0.0;-1.0
+"Motorcycles";27167.72;12;"December";"Norway  ";27167.72;0.0;0.0;0.0;0.0
+"Planes";2787.19;12;"December";"Norway  ";2787.19;0.0;0.0;0.0;0.0
+"Classic Cars";40231.62;3;"March";"Philippines";40231.62;0.0;0.0;0.0;0.0
+"Motorcycles";10769.6;3;"March";"Philippines";10769.6;0.0;0.0;0.0;0.0
+"Planes";18975.37;12;"December";"Philippines";18975.37;0.0;0.0;0.0;0.0
+"Classic Cars";11753.9;12;"December";"Philippines";0.0;11753.9;0.0;0.0;-1.0
+"Motorcycles";4068.94;12;"December";"Philippines";0.0;4068.94;0.0;0.0;-1.0
+"Vintage Cars";1668.87;12;"December";"Philippines";1668.87;0.0;0.0;0.0;0.0
+"Trucks and Buses";13300.99;2;"February";"Singapore";0.0;13300.99;0.0;0.0;-1.0
+"Classic Cars";9173.18;2;"February";"Singapore";0.0;9173.18;0.0;0.0;-1.0
+"Classic Cars";22246.01;5;"May";"Singapore";22246.01;0.0;0.0;0.0;0.0
+"Ships";14393.6;5;"May";"Singapore";14393.6;0.0;0.0;0.0;0.0
+"Vintage Cars";4856.61;5;"May";"Singapore";4856.61;0.0;0.0;0.0;0.0
+"Trains";2883.93;5;"May";"Singapore";2883.93;0.0;0.0;0.0;0.0
+"Trucks and Buses";30581.62;7;"July";"Singapore";0.0;30581.62;0.0;0.0;-1.0
+"Classic Cars";13579.3;7;"July";"Singapore";0.0;13579.3;0.0;0.0;-1.0
+"Classic Cars";2611.84;8;"August";"Singapore";0.0;2611.84;0.0;0.0;-1.0
+"Classic Cars";23464.59;9;"September";"Singapore";0.0;23464.59;0.0;0.0;-1.0
+"Vintage Cars";15320.89;9;"September";"Singapore";0.0;15320.89;0.0;0.0;-1.0
+"Trucks and Buses";15810.34;10;"October";"Singapore";15810.34;0.0;0.0;0.0;0.0
+"Classic Cars";12521.8;10;"October";"Singapore";12521.8;0.0;0.0;0.0;0.0
+"Vintage Cars";10018.01;10;"October";"Singapore";10018.01;0.0;0.0;0.0;0.0
+"Classic Cars";34889.42;11;"November";"Singapore";34889.42;0.0;0.0;0.0;0.0
+"Trucks and Buses";23964.75;11;"November";"Singapore";23964.75;0.0;0.0;0.0;0.0
+"Trains";8538.68;11;"November";"Singapore";8538.68;0.0;0.0;0.0;0.0
+"Classic Cars";59830.55;1;"January";"Spain";0.0;59830.55;0.0;0.0;-1.0
+"Classic Cars";60320.89;2;"February";"Spain";22003.45;0.0;38317.44;0.0;0.0
+"Vintage Cars";29635.16;2;"February";"Spain";0.0;22162.61;7472.55;0.0;-0.662831
+"Trucks and Buses";13725.88;2;"February";"Spain";13725.88;0.0;0.0;0.0;0.0
+"Trains";4476.87;2;"February";"Spain";4476.87;0.0;0.0;0.0;0.0
+"Motorcycles";3120.4;2;"February";"Spain";0.0;0.0;3120.4;0.0;0.0
+"Classic Cars";18056.28;3;"March";"Spain";0.0;0.0;18056.28;0.0;0.0
+"Vintage Cars";16347.93;3;"March";"Spain";0.0;0.0;16347.93;0.0;0.0
+"Classic Cars";15322.93;4;"April";"Spain";0.0;15322.93;0.0;0.0;-1.0
+"Vintage Cars";26155.91;5;"May";"Spain";0.0;26155.91;0.0;0.0;-1.0
+"Classic Cars";19363.13;5;"May";"Spain";0.0;19363.13;0.0;0.0;-1.0
+"Trucks and Buses";16057.61;5;"May";"Spain";0.0;16057.61;0.0;0.0;-1.0
+"Ships";3101.4;5;"May";"Spain";3101.4;0.0;0.0;0.0;0.0
+"Vintage Cars";27393.3;6;"June";"Spain";27393.3;0.0;0.0;0.0;0.0
+"Trucks and Buses";23103.26;6;"June";"Spain";23103.26;0.0;0.0;0.0;0.0
+"Classic Cars";14884.88;6;"June";"Spain";14884.88;0.0;0.0;0.0;0.0
+"Trains";3307.47;6;"June";"Spain";3307.47;0.0;0.0;0.0;0.0
+"Ships";2328.0;6;"June";"Spain";2328.0;0.0;0.0;0.0;0.0
+"Planes";42707.75;7;"July";"Spain";16200.59;26507.16;0.0;0.636185;-1.0
+"Vintage Cars";18583.36;7;"July";"Spain";4304.52;14278.84;0.0;2.317174;-1.0
+"Ships";6279.36;7;"July";"Spain";0.0;6279.36;0.0;0.0;-1.0
+"Motorcycles";1860.93;7;"July";"Spain";1860.93;0.0;0.0;0.0;0.0
+"Classic Cars";20009.53;8;"August";"Spain";0.0;20009.53;0.0;0.0;-1.0
+"Ships";18123.45;10;"October";"Spain";18123.45;0.0;0.0;0.0;0.0
+"Classic Cars";17055.32;10;"October";"Spain";17055.32;0.0;0.0;0.0;0.0
+"Vintage Cars";10057.92;10;"October";"Spain";6583.26;3474.66;0.0;-0.472198;-1.0
+"Trains";4050.62;10;"October";"Spain";4050.62;0.0;0.0;0.0;0.0
+"Planes";3726.72;10;"October";"Spain";3726.72;0.0;0.0;0.0;0.0
+"Classic Cars";71305.25;11;"November";"Spain";20007.83;51297.42;0.0;1.563867;-1.0
+"Trucks and Buses";34389.46;11;"November";"Spain";24671.92;9717.54;0.0;-0.60613;-1.0
+"Ships";19658.17;11;"November";"Spain";19658.17;0.0;0.0;0.0;0.0
+"Vintage Cars";17350.69;11;"November";"Spain";9079.71;8270.98;0.0;-0.08907;-1.0
+"Trains";5523.77;11;"November";"Spain";5523.77;0.0;0.0;0.0;0.0
+"Classic Cars";87149.29;12;"December";"Spain";45386.93;41762.36;0.0;-0.079859;-1.0
+"Vintage Cars";46021.96;12;"December";"Spain";24300.02;21721.94;0.0;-0.106094;-1.0
+"Ships";42521.11;12;"December";"Spain";22756.43;19764.68;0.0;-0.131468;-1.0
+"Motorcycles";28609.73;12;"December";"Spain";10721.86;17887.87;0.0;0.668355;-1.0
+"Trucks and Buses";19845.88;12;"December";"Spain";0.0;19845.88;0.0;0.0;-1.0
+"Planes";13275.54;12;"December";"Spain";1152.17;12123.37;0.0;9.522206;-1.0
+"Trains";8047.51;12;"December";"Spain";0.0;8047.51;0.0;0.0;-1.0
+"Classic Cars";5717.64;4;"April";"Sweden";5717.64;0.0;0.0;0.0;0.0
+"Vintage Cars";1957.3;4;"April";"Sweden";1957.3;0.0;0.0;0.0;0.0
+"Trucks and Buses";24146.26;9;"September";"Sweden";0.0;24146.26;0.0;0.0;-1.0
+"Classic Cars";14460.99;9;"September";"Sweden";0.0;14460.99;0.0;0.0;-1.0
+"Vintage Cars";10202.65;9;"September";"Sweden";0.0;10202.65;0.0;0.0;-1.0
+"Ships";28441.36;11;"November";"Sweden";21137.6;7303.76;0.0;-0.654466;-1.0
+"Classic Cars";22244.47;11;"November";"Sweden";5445.44;16799.03;0.0;2.084972;-1.0
+"Vintage Cars";17491.72;11;"November";"Sweden";8622.08;8869.64;0.0;0.028712;-1.0
+"Planes";8961.97;11;"November";"Sweden";8961.97;0.0;0.0;0.0;0.0
+"Trains";3033.28;11;"November";"Sweden";0.0;3033.28;0.0;0.0;-1.0
+"Trucks and Buses";16687.31;12;"December";"Sweden";0.0;16687.31;0.0;0.0;-1.0
+"Classic Cars";6326.86;12;"December";"Sweden";0.0;6326.86;0.0;0.0;-1.0
+"Classic Cars";47375.92;3;"March";"Switzerland";0.0;47375.92;0.0;0.0;-1.0
+"Classic Cars";61402.0;9;"September";"Switzerland";0.0;61402.0;0.0;0.0;-1.0
+"Classic Cars";4092.96;2;"February";"UK";0.0;4092.96;0.0;0.0;-1.0
+"Vintage Cars";3217.46;2;"February";"UK";0.0;3217.46;0.0;0.0;-1.0
+"Vintage Cars";27861.59;4;"April";"UK";23119.91;4741.68;0.0;-0.794909;-1.0
+"Classic Cars";25305.78;4;"April";"UK";25305.78;0.0;0.0;0.0;0.0
+"Ships";15559.05;4;"April";"UK";0.0;15559.05;0.0;0.0;-1.0
+"Trains";4694.88;4;"April";"UK";0.0;4694.88;0.0;0.0;-1.0
+"Classic Cars";49527.62;6;"June";"UK";4084.08;45443.54;0.0;10.126996;-1.0
+"Ships";18190.93;6;"June";"UK";18190.93;0.0;0.0;0.0;0.0
+"Vintage Cars";7154.13;6;"June";"UK";7154.13;0.0;0.0;0.0;0.0
+"Classic Cars";30010.69;10;"October";"UK";13596.9;16413.79;0.0;0.207171;-1.0
+"Vintage Cars";19663.2;10;"October";"UK";10311.34;9351.86;0.0;-0.093051;-1.0
+"Ships";19186.06;10;"October";"UK";0.0;19186.06;0.0;0.0;-1.0
+"Trains";7873.58;10;"October";"UK";0.0;7873.58;0.0;0.0;-1.0
+"Planes";30062.85;11;"November";"UK";6912.34;23150.51;0.0;2.349157;-1.0
+"Trucks and Buses";24546.77;11;"November";"UK";24546.77;0.0;0.0;0.0;0.0
+"Classic Cars";19911.64;11;"November";"UK";15737.8;4173.84;0.0;-0.734789;-1.0
+"Vintage Cars";19681.68;11;"November";"UK";8261.31;11420.37;0.0;0.382392;-1.0
+"Ships";12316.7;11;"November";"UK";4273.28;8043.42;0.0;0.882259;-1.0
+"Vintage Cars";32980.19;12;"December";"UK";0.0;32980.19;0.0;0.0;-1.0
+"Classic Cars";18324.08;12;"December";"UK";0.0;18324.08;0.0;0.0;-1.0
+"Planes";9526.66;12;"December";"UK";0.0;9526.66;0.0;0.0;-1.0
+"Vintage Cars";42116.78;1;"January";"USA";15718.61;5736.54;20661.63;-0.635048;2.601758
+"Classic Cars";27439.57;1;"January";"USA";0.0;5038.8;22400.77;0.0;3.445656
+"Motorcycles";17517.67;1;"January";"USA";0.0;0.0;17517.67;0.0;0.0
+"Ships";5299.4;1;"January";"USA";0.0;5299.4;0.0;0.0;-1.0
+"Planes";4978.95;1;"January";"USA";0.0;4978.95;0.0;0.0;-1.0
+"Classic Cars";55386.12;2;"February";"USA";0.0;13556.73;41829.39;0.0;2.085507
+"Vintage Cars";46261.62;2;"February";"USA";0.0;24254.28;22007.34;0.0;-0.092641
+"Trucks and Buses";26180.68;2;"February";"USA";0.0;10832.74;15347.94;0.0;0.416811
+"Trains";1603.2;2;"February";"USA";0.0;0.0;1603.2;0.0;0.0
+"Classic Cars";109844.58;3;"March";"USA";25833.14;52402.24;31609.2;1.028489;-0.396797
+"Trucks and Buses";54213.52;3;"March";"USA";0.0;28768.92;25444.6;0.0;-0.115552
+"Vintage Cars";46248.76;3;"March";"USA";0.0;26349.98;19898.78;0.0;-0.244828
+"Motorcycles";22292.62;3;"March";"USA";22292.62;0.0;0.0;0.0;0.0
+"Planes";18818.52;3;"March";"USA";0.0;18818.52;0.0;0.0;-1.0
+"Ships";17760.12;3;"March";"USA";0.0;17760.12;0.0;0.0;-1.0
+"Motorcycles";28501.74;4;"April";"USA";0.0;28501.74;0.0;0.0;-1.0
+"Vintage Cars";21533.75;4;"April";"USA";18701.35;2832.4;0.0;-0.848546;-1.0
+"Trucks and Buses";16723.64;4;"April";"USA";16723.64;0.0;0.0;0.0;0.0
+"Classic Cars";13823.14;4;"April";"USA";13823.14;0.0;0.0;0.0;0.0
+"Ships";4346.26;4;"April";"USA";0.0;4346.26;0.0;0.0;-1.0
+"Planes";35898.01;5;"May";"USA";0.0;35898.01;0.0;0.0;-1.0
+"Vintage Cars";32791.63;5;"May";"USA";0.0;32791.63;0.0;0.0;-1.0
+"Ships";25876.79;5;"May";"USA";0.0;25876.79;0.0;0.0;-1.0
+"Classic Cars";16901.58;5;"May";"USA";0.0;16901.58;0.0;0.0;-1.0
+"Trucks and Buses";15671.49;5;"May";"USA";0.0;15671.49;0.0;0.0;-1.0
+"Motorcycles";5119.63;5;"May";"USA";0.0;5119.63;0.0;0.0;-1.0
+"Trains";4023.6;5;"May";"USA";0.0;4023.6;0.0;0.0;-1.0
+"Classic Cars";55495.71;6;"June";"USA";55495.71;0.0;0.0;0.0;0.0
+"Vintage Cars";33655.73;6;"June";"USA";16902.43;16753.3;0.0;-0.008823;-1.0
+"Motorcycles";31102.85;6;"June";"USA";0.0;31102.85;0.0;0.0;-1.0
+"Trucks and Buses";14759.19;6;"June";"USA";14759.19;0.0;0.0;0.0;0.0
+"Trains";4326.0;6;"June";"USA";4326.0;0.0;0.0;0.0;0.0
+"Classic Cars";70260.58;7;"July";"USA";43912.88;26347.7;0.0;-0.400001;-1.0
+"Motorcycles";56997.58;7;"July";"USA";11688.96;45308.62;0.0;2.876189;-1.0
+"Planes";22990.81;7;"July";"USA";13814.21;9176.6;0.0;-0.335713;-1.0
+"Vintage Cars";4809.56;7;"July";"USA";4809.56;0.0;0.0;0.0;0.0
+"Ships";4445.48;7;"July";"USA";4445.48;0.0;0.0;0.0;0.0
+"Classic Cars";144018.11;8;"August";"USA";41261.66;102756.45;0.0;1.490362;-1.0
+"Trucks and Buses";44480.28;8;"August";"USA";23549.46;20930.82;0.0;-0.111197;-1.0
+"Planes";27710.8;8;"August";"USA";18545.57;9165.23;0.0;-0.505799;-1.0
+"Ships";26075.66;8;"August";"USA";24272.54;1803.12;0.0;-0.925714;-1.0
+"Vintage Cars";22649.89;8;"August";"USA";21087.73;1562.16;0.0;-0.925921;-1.0
+"Motorcycles";17098.04;8;"August";"USA";0.0;17098.04;0.0;0.0;-1.0
+"Trains";11889.5;8;"August";"USA";7027.48;4862.02;0.0;-0.308142;-1.0
+"Classic Cars";98072.73;9;"September";"USA";36477.57;61595.16;0.0;0.688576;-1.0
+"Motorcycles";81418.09;9;"September";"USA";42875.85;38542.24;0.0;-0.101073;-1.0
+"Vintage Cars";46890.76;9;"September";"USA";29997.09;16893.67;0.0;-0.436823;-1.0
+"Trucks and Buses";43368.74;9;"September";"USA";0.0;43368.74;0.0;0.0;-1.0
+"Ships";15704.33;9;"September";"USA";0.0;15704.33;0.0;0.0;-1.0
+"Planes";14892.79;9;"September";"USA";10300.99;4591.8;0.0;-0.554237;-1.0
+"Trains";10724.2;9;"September";"USA";0.0;10724.2;0.0;0.0;-1.0
+"Classic Cars";68340.62;10;"October";"USA";43344.96;24995.66;0.0;-0.423332;-1.0
+"Motorcycles";46736.65;10;"October";"USA";31790.22;14946.43;0.0;-0.529842;-1.0
+"Planes";31081.32;10;"October";"USA";0.0;31081.32;0.0;0.0;-1.0
+"Trucks and Buses";25018.71;10;"October";"USA";0.0;25018.71;0.0;0.0;-1.0
+"Vintage Cars";14390.78;10;"October";"USA";2332.13;12058.65;0.0;4.170659;-1.0
+"Ships";7117.1;10;"October";"USA";2133.72;4983.38;0.0;1.335536;-1.0
+"Classic Cars";187384.64;11;"November";"USA";77489.32;109895.32;0.0;0.4182;-1.0
+"Vintage Cars";186319.8;11;"November";"USA";110019.42;76300.38;0.0;-0.306483;-1.0
+"Motorcycles";64029.11;11;"November";"USA";21315.15;42713.96;0.0;1.003925;-1.0
+"Trucks and Buses";37389.04;11;"November";"USA";12042.8;25346.24;0.0;1.10468;-1.0
+"Planes";35807.94;11;"November";"USA";25731.24;10076.7;0.0;-0.608387;-1.0
+"Ships";18578.7;11;"November";"USA";18578.7;0.0;0.0;0.0;0.0
+"Trains";5581.91;11;"November";"USA";5581.91;0.0;0.0;0.0;0.0
+"Classic Cars";289611.6;12;"December";"USA";167585.47;122026.13;0.0;-0.271857;-1.0
+"Trucks and Buses";87652.04;12;"December";"USA";46443.41;41208.63;0.0;-0.112713;-1.0
+"Vintage Cars";63802.9;12;"December";"USA";20635.26;43167.64;0.0;1.091936;-1.0
+"Motorcycles";61886.5;12;"December";"USA";27803.89;34082.61;0.0;0.225822;-1.0
+"Planes";34473.08;12;"December";"USA";6577.12;27895.96;0.0;3.241364;-1.0
+"Ships";19754.45;12;"December";"USA";4244.0;15510.45;0.0;2.654677;-1.0
+"Trains";11053.09;12;"December";"USA";9909.01;1144.08;0.0;-0.884541;-1.0

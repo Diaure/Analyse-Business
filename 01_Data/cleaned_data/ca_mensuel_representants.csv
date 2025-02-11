@@ -1,0 +1,281 @@
+"employeeNumber";"lastname";"firstname";"date_vente";"country";"sales_vendeur"
+1216;"Patterson";"Steve";"2022-01-21";"USA";10223.83
+1504;"Jones";"Barry";"2022-01-24";"Germany";10549.01
+1286;"Tseng";"Foon Yue";"2022-01-25";"USA";5494.78
+1504;"Jones";"Barry";"2022-02-13";"Norway";50218.95
+1370;"Hernandez";"Gerard";"2022-02-15";"Spain";40206.2
+1401;"Castillo";"Pamela";"2022-02-26";"Denmark";53959.21
+1401;"Castillo";"Pamela";"2022-03-04";"Italy";52151.81
+1323;"Vanauf";"George";"2022-03-11";"USA";22292.62
+1621;"Nishi";"Mami";"2022-03-18";"Philippines";51001.22
+1323;"Vanauf";"George";"2022-03-25";"USA";25833.14
+1501;"Bott";"Larry";"2022-04-02";"UK";48425.69
+1165;"Jennings";"Leslie";"2022-04-09";"USA";16537.85
+1504;"Jones";"Barry";"2022-04-08";"Sweden";7674.94
+1165;"Jennings";"Leslie";"2022-04-10";"USA";11044.3
+1337;"Bondur";"Loui";"2022-04-16";"France";33383.14
+1286;"Tseng";"Foon Yue";"2022-04-19";"USA";21665.98
+1401;"Castillo";"Pamela";"2022-04-26";"Belgium";1627.56
+1621;"Nishi";"Mami";"2022-05-01";"Singapore";44380.15
+1702;"Gerard";"Martin";"2022-05-06";"Spain";3101.4
+1401;"Castillo";"Pamela";"2022-05-13";"Austria";35826.33
+1611;"Fixter";"Andy";"2022-05-14";"Australia";45864.03
+1337;"Bondur";"Loui";"2022-05-22";"France";16700.47
+1337;"Bondur";"Loui";"2022-05-23";"France";50824.66
+1370;"Hernandez";"Gerard";"2022-06-04";"France";14571.44
+1166;"Thompson";"Leslie";"2022-06-05";"USA";32641.98
+1611;"Fixter";"Andy";"2022-06-05";"Australia";7565.08
+1702;"Gerard";"Martin";"2022-06-12";"Spain";57131.92
+1286;"Tseng";"Foon Yue";"2022-06-18";"USA";58841.35
+1370;"Hernandez";"Gerard";"2022-06-21";"Spain";13884.99
+1501;"Bott";"Larry";"2022-06-27";"UK";29429.14
+1216;"Patterson";"Steve";"2022-07-01";"USA";6036.96
+1323;"Vanauf";"George";"2022-07-01";"USA";17032.29
+1612;"Marsh";"Peter";"2022-07-10";"New Zealand";2880.0
+1370;"Hernandez";"Gerard";"2022-07-12";"Spain";22366.04
+1337;"Bondur";"Loui";"2022-07-16";"France";23419.47
+1165;"Jennings";"Leslie";"2022-07-17";"USA";55601.84
+1370;"Hernandez";"Gerard";"2022-07-19";"France";14232.7
+1337;"Bondur";"Loui";"2022-07-25";"France";13920.26
+1612;"Marsh";"Peter";"2022-07-22";"New Zealand";32077.44
+1611;"Fixter";"Andy";"2022-07-31";"Australia";24013.52
+1165;"Jennings";"Leslie";"2022-08-08";"USA";38675.13
+1501;"Bott";"Larry";"2022-08-16";"Finland";29716.86
+1165;"Jennings";"Leslie";"2022-08-23";"USA";56052.56
+1188;"Firrelli";"Julie";"2022-08-25";"USA";41016.75
+1401;"Castillo";"Pamela";"2022-08-28";"Belgium";1128.2
+1166;"Thompson";"Leslie";"2022-09-09";"USA";50342.74
+1323;"Vanauf";"George";"2022-09-18";"USA";6631.36
+1188;"Firrelli";"Julie";"2022-09-20";"USA";32680.31
+1611;"Fixter";"Andy";"2022-09-26";"Australia";41554.73
+1165;"Jennings";"Leslie";"2022-09-27";"USA";29997.09
+1621;"Nishi";"Mami";"2022-10-04";"Singapore";38350.15
+1501;"Bott";"Larry";"2022-10-06";"Finland";32723.04
+1611;"Fixter";"Andy";"2022-10-10";"Australia";9821.32
+1370;"Hernandez";"Gerard";"2022-10-13";"Spain";44939.85
+1166;"Thompson";"Leslie";"2022-10-17";"USA";4465.85
+1501;"Bott";"Larry";"2022-10-21";"Finland";37602.48
+1370;"Hernandez";"Gerard";"2022-10-23";"Spain";4599.52
+1401;"Castillo";"Pamela";"2022-10-24";"Italy";17746.26
+1504;"Jones";"Barry";"2022-10-25";"Norway";1491.38
+1165;"Jennings";"Leslie";"2022-10-25";"USA";54682.68
+1166;"Thompson";"Leslie";"2022-10-26";"USA";20452.5
+1401;"Castillo";"Pamela";"2022-11-01";"Denmark";36164.46
+1165;"Jennings";"Leslie";"2022-11-02";"USA";30876.44
+1286;"Tseng";"Foon Yue";"2022-11-04";"USA";22042.37
+1401;"Castillo";"Pamela";"2022-11-05";"Austria";27121.9
+1621;"Nishi";"Mami";"2022-11-06";"Singapore";67392.85
+1216;"Patterson";"Steve";"2022-11-05";"USA";9977.85
+1504;"Jones";"Barry";"2022-11-07";"Sweden";44167.09
+1165;"Jennings";"Leslie";"2022-11-12";"USA";50743.65
+1611;"Fixter";"Andy";"2022-11-19";"Australia";38547.19
+1401;"Castillo";"Pamela";"2022-11-19";"Austria";15130.97
+1286;"Tseng";"Foon Yue";"2022-11-20";"Canada";16909.84
+1323;"Vanauf";"George";"2022-11-20";"USA";24879.08
+1401;"Castillo";"Pamela";"2022-11-20";"Italy";37723.79
+1611;"Fixter";"Andy";"2022-11-21";"Australia";23936.53
+1501;"Bott";"Larry";"2022-11-21";"UK";37455.77
+1401;"Castillo";"Pamela";"2022-11-21";"Italy";38524.29
+1702;"Gerard";"Martin";"2022-11-22";"Spain";31428.21
+1370;"Hernandez";"Gerard";"2022-11-23";"France";33818.34
+1612;"Marsh";"Peter";"2022-11-26";"New Zealand";22963.6
+1370;"Hernandez";"Gerard";"2022-11-26";"France";42783.81
+1504;"Jones";"Barry";"2022-11-27";"Norway  ";55069.55
+1165;"Jennings";"Leslie";"2022-11-27";"USA";45084.38
+1188;"Firrelli";"Julie";"2022-11-28";"USA";34606.28
+1702;"Gerard";"Martin";"2022-11-29";"Spain";47513.19
+1188;"Firrelli";"Julie";"2022-11-29";"USA";52548.49
+1501;"Bott";"Larry";"2022-11-29";"UK";22275.73
+1621;"Nishi";"Mami";"2022-11-30";"Hong Kong";28287.73
+1504;"Jones";"Barry";"2022-12-03";"Norway  ";29954.91
+1166;"Thompson";"Leslie";"2022-12-03";"USA";3879.96
+1370;"Hernandez";"Gerard";"2022-12-04";"Spain";10721.86
+1504;"Jones";"Barry";"2022-12-05";"Germany";27988.47
+1216;"Patterson";"Steve";"2022-12-05";"USA";55425.77
+1611;"Fixter";"Andy";"2022-12-06";"Australia";35505.63
+1337;"Bondur";"Loui";"2022-12-10";"France";39712.1
+1323;"Vanauf";"George";"2022-12-10";"USA";36092.4
+1286;"Tseng";"Foon Yue";"2022-12-11";"USA";38139.18
+1702;"Gerard";"Martin";"2022-12-11";"Spain";40473.86
+1621;"Nishi";"Mami";"2022-12-12";"Philippines";20644.24
+1166;"Thompson";"Leslie";"2022-12-16";"USA";7678.25
+1621;"Nishi";"Mami";"2022-12-16";"Hong Kong";17193.06
+1165;"Jennings";"Leslie";"2022-12-16";"USA";23923.93
+1612;"Marsh";"Peter";"2022-12-17";"New Zealand";20220.04
+1370;"Hernandez";"Gerard";"2022-12-17";"Spain";40062.53
+1286;"Tseng";"Foon Yue";"2022-12-17";"USA";58793.53
+1370;"Hernandez";"Gerard";"2022-12-18";"Spain";13059.16
+1323;"Vanauf";"George";"2022-12-20";"Canada";36527.61
+1188;"Firrelli";"Julie";"2022-12-24";"USA";59265.14
+1337;"Bondur";"Loui";"2023-01-17";"France";49614.72
+1166;"Thompson";"Leslie";"2023-01-24";"USA";21053.69
+1621;"Nishi";"Mami";"2023-01-27";"Japan";47177.59
+1337;"Bondur";"Loui";"2023-01-30";"France";49165.16
+1370;"Hernandez";"Gerard";"2023-01-31";"Spain";59830.55
+1501;"Bott";"Larry";"2023-02-06";"UK";7310.42
+1702;"Gerard";"Martin";"2023-02-10";"Spain";22162.61
+1166;"Thompson";"Leslie";"2023-02-13";"USA";36070.47
+1370;"Hernandez";"Gerard";"2023-02-17";"France";5759.42
+1612;"Marsh";"Peter";"2023-02-19";"Singapore";22474.17
+1401;"Castillo";"Pamela";"2023-02-24";"Italy";7612.06
+1165;"Jennings";"Leslie";"2023-02-25";"USA";12573.28
+1504;"Jones";"Barry";"2023-02-27";"Ireland";32538.74
+1401;"Castillo";"Pamela";"2023-03-05";"Belgium";16901.38
+1166;"Thompson";"Leslie";"2023-03-06";"USA";56822.65
+1611;"Fixter";"Andy";"2023-03-07";"Australia";44894.74
+1370;"Hernandez";"Gerard";"2023-03-08";"France";18997.89
+1702;"Gerard";"Martin";"2023-03-09";"Switzerland";47375.92
+1166;"Thompson";"Leslie";"2023-03-13";"USA";23552.59
+1337;"Bondur";"Loui";"2023-03-18";"France";40978.53
+1188;"Firrelli";"Julie";"2023-03-26";"USA";20355.24
+1165;"Jennings";"Leslie";"2023-03-27";"USA";43369.3
+1504;"Jones";"Barry";"2023-03-31";"Germany";33820.62
+1702;"Gerard";"Martin";"2023-04-04";"Spain";15322.93
+1501;"Bott";"Larry";"2023-04-05";"UK";24995.61
+1323;"Vanauf";"George";"2023-04-14";"USA";7178.66
+1612;"Marsh";"Peter";"2023-04-15";"New Zealand";31670.37
+1323;"Vanauf";"George";"2023-04-18";"Canada";29284.42
+1323;"Vanauf";"George";"2023-04-19";"USA";5899.38
+1286;"Tseng";"Foon Yue";"2023-04-21";"USA";22602.36
+1401;"Castillo";"Pamela";"2023-04-25";"Denmark";28211.7
+1501;"Bott";"Larry";"2023-04-28";"Finland";16212.59
+1621;"Nishi";"Mami";"2023-04-29";"Japan";15183.63
+1370;"Hernandez";"Gerard";"2023-04-29";"France";36069.26
+1286;"Tseng";"Foon Yue";"2023-05-06";"USA";1679.92
+1188;"Firrelli";"Julie";"2023-05-12";"USA";6276.6
+1370;"Hernandez";"Gerard";"2023-05-15";"Spain";26155.91
+1286;"Tseng";"Foon Yue";"2023-05-20";"USA";32239.47
+1370;"Hernandez";"Gerard";"2023-05-21";"Spain";35420.74
+1501;"Bott";"Larry";"2023-05-21";"Finland";28394.54
+1323;"Vanauf";"George";"2023-05-23";"USA";41445.21
+1188;"Firrelli";"Julie";"2023-05-24";"USA";11843.45
+1165;"Jennings";"Leslie";"2023-05-27";"USA";42798.08
+1323;"Vanauf";"George";"2023-06-03";"USA";31102.85
+1337;"Bondur";"Loui";"2023-06-11";"France";25080.96
+1501;"Bott";"Larry";"2023-06-17";"UK";45443.54
+1612;"Marsh";"Peter";"2023-06-19";"New Zealand";37281.36
+1370;"Hernandez";"Gerard";"2023-06-20";"France";4632.31
+1401;"Castillo";"Pamela";"2023-06-24";"Denmark";4710.73
+1165;"Jennings";"Leslie";"2023-06-30";"USA";16753.3
+1621;"Nishi";"Mami";"2023-07-01";"Japan";22037.91
+1612;"Marsh";"Peter";"2023-07-01";"Singapore";44160.92
+1612;"Marsh";"Peter";"2023-07-02";"New Zealand";37769.38
+1286;"Tseng";"Foon Yue";"2023-07-03";"Canada";22997.45
+1370;"Hernandez";"Gerard";"2023-07-10";"Spain";47065.36
+1323;"Vanauf";"George";"2023-07-14";"USA";42044.77
+1216;"Patterson";"Steve";"2023-07-16";"USA";18473.71
+1611;"Fixter";"Andy";"2023-07-18";"Australia";9415.13
+1401;"Castillo";"Pamela";"2023-07-22";"Italy";51619.02
+1286;"Tseng";"Foon Yue";"2023-07-23";"USA";20314.44
+1612;"Marsh";"Peter";"2023-07-28";"New Zealand";35034.57
+1401;"Castillo";"Pamela";"2023-08-01";"Austria";6419.84
+1611;"Fixter";"Andy";"2023-08-04";"Australia";35806.73
+1165;"Jennings";"Leslie";"2023-08-05";"USA";37430.89
+1216;"Patterson";"Steve";"2023-08-05";"USA";23715.7
+1401;"Castillo";"Pamela";"2023-08-06";"Belgium";45352.47
+1188;"Firrelli";"Julie";"2023-08-06";"USA";12530.51
+1370;"Hernandez";"Gerard";"2023-08-08";"France";47924.19
+1188;"Firrelli";"Julie";"2023-08-18";"USA";51152.86
+1621;"Nishi";"Mami";"2023-08-20";"Singapore";2611.84
+1166;"Thompson";"Leslie";"2023-08-22";"USA";33347.88
+1370;"Hernandez";"Gerard";"2023-08-25";"Spain";20009.53
+1401;"Castillo";"Pamela";"2023-09-02";"Italy";48298.99
+1216;"Patterson";"Steve";"2023-09-04";"USA";39641.43
+1165;"Jennings";"Leslie";"2023-09-05";"USA";47979.98
+1323;"Vanauf";"George";"2023-09-05";"Canada";37527.58
+1504;"Jones";"Barry";"2023-09-06";"Norway  ";32260.16
+1216;"Patterson";"Steve";"2023-09-12";"USA";43134.04
+1337;"Bondur";"Loui";"2023-09-13";"France";1960.8
+1702;"Gerard";"Martin";"2023-09-15";"Switzerland";61402.0
+1612;"Marsh";"Peter";"2023-09-17";"Singapore";38785.48
+1504;"Jones";"Barry";"2023-09-19";"Norway  ";12538.01
+1216;"Patterson";"Steve";"2023-09-23";"USA";5858.56
+1504;"Jones";"Barry";"2023-09-24";"Sweden";48809.9
+1323;"Vanauf";"George";"2023-09-24";"USA";35321.97
+1401;"Castillo";"Pamela";"2023-09-25";"Italy";33924.24
+1188;"Firrelli";"Julie";"2023-09-26";"USA";4424.4
+1216;"Patterson";"Steve";"2023-09-26";"USA";15059.76
+1504;"Jones";"Barry";"2023-10-01";"Germany";31310.09
+1504;"Jones";"Barry";"2023-10-02";"Ireland";17359.53
+1370;"Hernandez";"Gerard";"2023-10-13";"France";6066.78
+1501;"Bott";"Larry";"2023-10-16";"Finland";34341.08
+1504;"Jones";"Barry";"2022-10-19";"Germany";24101.81
+1504;"Jones";"Barry";"2022-10-20";"Norway  ";36798.88
+1501;"Bott";"Larry";"2022-10-21";"UK";23908.24
+1702;"Gerard";"Martin";"2023-10-22";"Spain";3474.66
+1370;"Hernandez";"Gerard";"2023-10-27";"France";53116.99
+1216;"Patterson";"Steve";"2023-10-29";"USA";47411.33
+1501;"Bott";"Larry";"2023-10-30";"UK";52825.29
+1188;"Firrelli";"Julie";"2023-10-30";"USA";23333.06
+1323;"Vanauf";"George";"2023-10-31";"USA";42339.76
+1504;"Jones";"Barry";"2023-10-31";"Norway";17876.32
+1504;"Jones";"Barry";"2023-11-01";"Germany";61234.67
+1370;"Hernandez";"Gerard";"2023-11-01";"Spain";36140.38
+1165;"Jennings";"Leslie";"2023-11-06";"USA";55639.66
+1323;"Vanauf";"George";"2023-11-07";"Canada";33594.58
+1401;"Castillo";"Pamela";"2023-11-07";"Denmark";53745.34
+1370;"Hernandez";"Gerard";"2023-11-14";"France";19501.82
+1501;"Bott";"Larry";"2023-11-17";"UK";46788.14
+1165;"Jennings";"Leslie";"2023-11-18";"USA";2434.25
+1216;"Patterson";"Steve";"2023-11-18";"USA";35152.12
+1286;"Tseng";"Foon Yue";"2023-11-19";"USA";27550.51
+1504;"Jones";"Barry";"2023-11-19";"Sweden";16799.03
+1216;"Patterson";"Steve";"2023-11-20";"USA";99155.56
+1504;"Jones";"Barry";"2023-11-21";"Germany";7466.32
+1286;"Tseng";"Foon Yue";"2023-11-21";"USA";44400.5
+1504;"Jones";"Barry";"2023-11-21";"Norway";34638.14
+1504;"Jones";"Barry";"2023-11-25";"Sweden";19206.68
+1401;"Castillo";"Pamela";"2023-11-26";"Denmark";20564.86
+1401;"Castillo";"Pamela";"2023-11-28";"Italy";37654.09
+1323;"Vanauf";"George";"2023-12-01";"USA";50025.35
+1621;"Nishi";"Mami";"2023-12-02";"Philippines";15822.84
+1323;"Vanauf";"George";"2023-12-03";"USA";45994.07
+1501;"Bott";"Larry";"2023-12-03";"UK";47159.11
+1165;"Jennings";"Leslie";"2023-12-04";"USA";26248.78
+1504;"Jones";"Barry";"2023-12-05";"Sweden";23014.17
+1165;"Jennings";"Leslie";"2023-12-05";"USA";6466.44
+1337;"Bondur";"Loui";"2023-12-06";"France";51209.58
+1286;"Tseng";"Foon Yue";"2023-12-07";"USA";25505.98
+1401;"Castillo";"Pamela";"2023-12-08";"Belgium";12081.52
+1621;"Nishi";"Mami";"2023-12-09";"Japan";48927.64
+1702;"Gerard";"Martin";"2023-12-10";"Spain";24945.21
+1401;"Castillo";"Pamela";"2023-12-10";"Austria";42813.83
+1611;"Fixter";"Andy";"2023-12-10";"Australia";40265.6
+1337;"Bondur";"Loui";"2023-12-10";"France";17104.91
+1337;"Bondur";"Loui";"2023-12-11";"France";18888.31
+1370;"Hernandez";"Gerard";"2023-12-11";"France";1676.14
+1166;"Thompson";"Leslie";"2023-12-15";"USA";14191.12
+1611;"Fixter";"Andy";"2023-12-15";"Australia";41995.62
+1702;"Gerard";"Martin";"2023-11-17";"Spain";33145.56
+1286;"Tseng";"Foon Yue";"2023-12-17";"USA";39964.63
+1370;"Hernandez";"Gerard";"2023-12-18";"Spain";46493.16
+1501;"Bott";"Larry";"2023-12-19";"UK";13671.82
+1216;"Patterson";"Steve";"2023-12-19";"USA";9658.74
+1323;"Vanauf";"George";"2023-12-20";"USA";26304.13
+1612;"Marsh";"Peter";"2023-12-20";"New Zealand";39440.59
+1370;"Hernandez";"Gerard";"2023-12-23";"Spain";25529.78
+1337;"Bondur";"Loui";"2023-12-25";"France";26311.63
+1165;"Jennings";"Leslie";"2023-12-26";"USA";40676.26
+1370;"Hernandez";"Gerard";"2023-12-26";"Spain";44185.46
+1337;"Bondur";"Loui";"2023-12-31";"France";32600.61
+1612;"Marsh";"Peter";"2024-01-01";"New Zealand";52166.0
+1611;"Fixter";"Andy";"2024-01-02";"Australia";31835.36
+1165;"Jennings";"Leslie";"2024-01-21";"USA";12692.19
+1501;"Bott";"Larry";"2024-01-22";"Finland";45785.34
+1337;"Bondur";"Loui";"2024-01-22";"France";1834.56
+1188;"Firrelli";"Julie";"2024-01-23";"USA";8307.28
+1401;"Castillo";"Pamela";"2024-01-26";"Belgium";14379.9
+1166;"Thompson";"Leslie";"2024-01-28";"USA";39580.6
+1165;"Jennings";"Leslie";"2024-02-04";"USA";13874.75
+1188;"Firrelli";"Julie";"2024-02-05";"USA";28322.83
+1611;"Fixter";"Andy";"2024-02-05";"Australia";27083.78
+1165;"Jennings";"Leslie";"2024-02-08";"USA";35137.54
+1621;"Nishi";"Mami";"2024-02-11";"Japan";33967.73
+1501;"Bott";"Larry";"2024-02-16";"Finland";46770.52
+1611;"Fixter";"Andy";"2024-02-18";"Australia";21432.31
+1370;"Hernandez";"Gerard";"2024-02-19";"France";49523.67
+1166;"Thompson";"Leslie";"2024-02-24";"USA";3452.75
+1501;"Bott";"Larry";"2024-02-25";"Finland";23602.9
+1370;"Hernandez";"Gerard";"2024-02-26";"Spain";48910.39
+1370;"Hernandez";"Gerard";"2024-03-03";"Spain";34404.21
+1165;"Jennings";"Leslie";"2024-03-04";"USA";76952.58
