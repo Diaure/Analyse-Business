@@ -33,6 +33,21 @@ Nous nous sommes basés sur ces [données transformées](https://github.com/Diau
 généré par chaque employé chargé des ventes.<br>
 Meilleurs commerciaux : **Hernandez, Jennings et Castillo**.<br>
 
+```
+select
+	e.employeeNumber, 
+	e.lastname,
+	e.firstname,
+	YEAR(o.orderDate) AS salesYear,
+	MONTH(o.orderDate) AS salesMonths,
+	SUM(od.priceEach * od.quantityOrdered) AS sales_vendeur
+FROM employees e
+JOIN customers c ON c.salesRepEmployeeNumber = e.employeeNumber
+JOIN orders o ON o.customerNumber = c.customerNumber
+JOIN orderdetails od ON od.orderNumber = o.orderNumber
+GROUP BY salesMonths, salesYear, e.lastname, e.firstname, e.employeeNumber);
+```
+
 * **Performance des bureaux** : Mesurer le chiffre d’affaires généré par chaque 
 bureau et représentant commercial.<br>
 
@@ -45,6 +60,37 @@ bureau et représentant commercial.<br>
 Berline (1937), 2001 Ferrari Enzo, 1913 Ford Model T Speedster, 1940s Ford truck.
 
 * **Taux de retour clients** : **`98%`**, ce qui indique une bonne fidélisation.
+
+```
+create view Nombre_commandes_clients as (
+SELECT
+	c.customerNumber,
+    c.customerName,
+	count(distinct o.orderNumber) as nombre_orders
+FROM customers c
+join orders o on c.customerNumber = o.customerNumber
+GROUP BY c.customerNumber
+order by nombre_orders desc);
+
+create view taux_retour_client as (
+with nombre_commandes_client as (
+SELECT
+	c.customerNumber,
+    c.customerName,
+	count(distinct o.orderNumber) as nombre_orders
+FROM customers c
+join orders o on c.customerNumber = o.customerNumber
+GROUP BY c.customerNumber
+order by nombre_orders desc),
+
+Clients_fideles as (
+select count(customerNumber) from nombre_commandes_client where nombre_orders > 1)
+
+select
+	(select COUNT(*) from Clients_fideles) as clients_f,
+    (select COUNT(*) from customers) as nombre_commandes_client,
+    ROUND((select COUNT(*) from Clients_fideles) * 100.0 / (select COUNT(*) from customers), 2) as taux_de_retour);
+```
 
 * **Evolution trimestrielle des ventes** : Croissance significative en 2024 par 
 rapport à 2023 et 2022.
@@ -67,6 +113,35 @@ jours`**, une part non négligeable est en retard.
 
 * ⏱ **Durée moyenne de traitement des commandes** : **`3,69 jours`**, avec **`53%`**
 des commandes au-dessus du temps moyen de livraison.<br>
+
+```
+WITH traitement_commande AS (
+    SELECT 
+        orderNumber, 
+        orderDate, 
+        shippedDate, 
+        DATEDIFF(shippedDate, orderDate) AS temps_traitement
+    FROM orders
+),
+temps_moyen_traitement AS (
+    SELECT 
+        AVG(temps_traitement) AS temps_moyen_traitement
+    FROM traitement_commande
+)
+SELECT 
+    orderNumber, 
+    orderDate, 
+    shippedDate, 
+    DATEDIFF(o.shippedDate, o.orderDate) AS temps_traitement,
+    tmt.temps_moyen_traitement,
+    CASE 
+        WHEN DATEDIFF(o.shippedDate, o.orderDate) > tmt.temps_moyen_traitement THEN 'Au-dessus de la moyenne de livraison'
+        ELSE 'En-dessous de la moyenne de livraison'
+    END AS Status
+FROM traitement_commande o
+CROSS JOIN temps_moyen_traitement tmt
+ORDER BY temps_traitement DESC);
+```
 
 ## 📢**Synthèse des Recommandations**
 
