@@ -1,11 +1,11 @@
 # Analyse Business : Entreprise de Modèles et Maquettes<br>
-![test](.\images\Picture1.png)<br>
+![test](https://github.com/Diaure/Analyse-Business/blob/master/03_Images/Picture1.png)<br>
 
 ## 🏢**Contexte**
 Nous avons été mandatés par une entreprise spécialisée dans la vente de modèles et 
 de maquettes.<br>
 Souhaitant disposer d’un **`tableau de bord actualisable`**, le directeur de 
-l’entreprise nous a fournit une base de données répertoriant ses employés, produits, 
+l’entreprise nous a fournit une [base de données](https://github.com/Diaure/Analyse-Business/tree/master/01_Data/queries.sql) répertoriant ses employés, produits, 
 commandes et bien plus encore, <br> 
 Le directeur souhaite  chaque matin, 
 Cet outil lui permettra d’obtenir les informations les plus récentes afin de gérer 
@@ -26,6 +26,7 @@ Concevoir un tableau de bord interactif centré sur quatre thématiques clés :
 * **Power BI** : Visualisation et analyse des performances
 
 ## 📌**Indicateurs Clés de Performance (KPI)**<br>
+Nous nous sommes basés sur ces [données transformées](https://github.com/Diaure/Analyse-Business/tree/master/01_Data/cleaned_data) pour identifier les KPIs ci-dessous.<br>
 **1.** 👥 **Ressources Humaines**
 
 * **Performance des représentants commerciaux** : Mesurer le chiffre d’affaires 
@@ -81,6 +82,8 @@ pour écouler les produits à faible rotation.
 📚 **Renforcer les performances commerciales** par des formations ciblées sur les 
 représentants en sous-performance.
 
+Vous trouverez le dashboard détaillé [ici](https://github.com/Diaure/Analyse-Business/blob/master/02_Dasboards/Analyse%20business_KPIs_solo.pbix), aussi en version [pdf](https://drive.google.com/file/d/1mturDTBMuOv12l7cLJSa9_MqjyGpEYnJ/view?usp=sharing).
+
 ## **Conclusion**
 
 Ce projet vise à fournir un tableau de bord complet et interactif pour une prise 
@@ -91,9 +94,9 @@ et améliorer ses performances.<br>
 ## 🤝Contributions
 👨‍💻 **Équipe du Projet**
 
-**Aurélie GABU** - [Github]() / [LinkedIn]()
+**Aurélie GABU** - [Github](https://github.com/Diaure/Projects) / [LinkedIn](https://www.linkedin.com/in/aurelie-gabu/)
 
-**F**iliz CENGIZ** - [Github]() / [LinkedIn]()
+**Filiz CENGIZ** - [Github]() / [LinkedIn]()
 
 **Rodrigo ALENCAR** - [Github]() / [LinkedIn]()
 
