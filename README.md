@@ -166,9 +166,13 @@ de décision optimisée. Grâce à une analyse approfondie des ventes, finances,
 ressources humaines et logistique, l’entreprise pourra mieux piloter ses activités 
 et améliorer ses performances.<br>
 
+🤝 **Contributions**
+👨‍💻 Équipe du Projet
+
+**Aurélie GABU** - [Github](https://github.com/Diaure/Projects) / [LinkedIn](https://www.linkedin.com/in/aurelie-gabu/)
+**Rogrigo** - [Github](https://github.com/hawdgeal) 
 
 Nous encourageons les contributions à ce projet.<br> 
 Si vous souhaitez proposer des améliorations, corriger des erreurs ou ajouter de 
 nouvelles fonctionnalités, n'hésitez pas à soumettre une pull request.
 
-**Aurélie GABU** - [Github](https://github.com/Diaure/Projects) / [LinkedIn](https://www.linkedin.com/in/aurelie-gabu/)
