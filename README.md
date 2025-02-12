@@ -167,7 +167,7 @@ ressources humaines et logistique, l’entreprise pourra mieux piloter ses activ
 et améliorer ses performances.<br>
 
 ## 🤝 **Contributions**<br>
-👨‍💻 Équipe du Projet<br>
+👨‍💻 **Équipe du Projet**<br>
 
 **Aurélie GABU** - [Github](https://github.com/Diaure/Projects) / [LinkedIn](https://www.linkedin.com/in/aurelie-gabu/)<br>
 **Rogrigo ALENCAR** - [Github](https://github.com/hawdgeal) <br>
