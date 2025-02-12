@@ -166,7 +166,7 @@ de décision optimisée. Grâce à une analyse approfondie des ventes, finances,
 ressources humaines et logistique, l’entreprise pourra mieux piloter ses activités 
 et améliorer ses performances.<br>
 
-🤝 **Contributions**<br>
+## 🤝 **Contributions**<br>
 👨‍💻 Équipe du Projet<br>
 
 **Aurélie GABU** - [Github](https://github.com/Diaure/Projects) / [LinkedIn](https://www.linkedin.com/in/aurelie-gabu/)<br>
